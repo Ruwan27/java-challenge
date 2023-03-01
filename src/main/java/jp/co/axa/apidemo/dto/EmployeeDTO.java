@@ -1,24 +1,14 @@
-package jp.co.axa.apidemo.entities;
-
-
-
+package jp.co.axa.apidemo.dto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.persistence.*;
-
-@Entity
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-@Table(name = "Employee")
-public class Employee {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+public class EmployeeDTO {
     private Integer empID;
     private String empName;
     private Integer empSalary;
     private String empDepartment;
 }
-

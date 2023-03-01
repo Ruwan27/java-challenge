@@ -30,23 +30,11 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - Edit readme.md and add any comments. It can be about what you did, what you would have done if you had more time, etc.
 - Send us the link of your repository.
 
-#### Restrictions
-- use java 8
-
-
-#### What we will look for
-- Readability of your code
-- Documentation
-- Comments in your code 
-- Appropriate usage of spring boot
-- Appropriate usage of packages
-- Is the application running as expected
-- No performance issues
 
 #### Your experience in Java
 
 Please let us know more about your Java experience in a few sentences. For example:
 
-- I have 3 years experience in Java and I started to use Spring Boot from last year
-- I'm a beginner and just recently learned Spring Boot
-- I know Spring Boot very well and have been using it for many years
+- I have 4 years experience in Java and I started to use Spring Boot from 2021
+- I have all together 5 years experience
+
